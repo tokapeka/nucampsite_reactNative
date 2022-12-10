@@ -29,7 +29,6 @@ const FeaturedItem = ({ item }) => {
     return <View />;
 }
 
-
 const HomeScreen = () => {
     const [campsites, setCampsites ] = useState(CAMPSITES);
     const [promotions, setPromotions] = useState(PROMOTIONS);
