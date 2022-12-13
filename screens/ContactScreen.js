@@ -16,7 +16,7 @@ const ContactScreen = () => {
                     U.S.A.
                 </Text>
                 <Text>
-                    Phone: 1-206-555-1234
+                    Phone: 1-206-555-1234 {"\n"}
                     Email: campsites@nucamp.co 
                 </Text>
             </Card>
