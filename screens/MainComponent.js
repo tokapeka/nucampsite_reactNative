@@ -202,7 +202,8 @@ const Main = () => {
                                 iconStyle={{ width: 24 }}
                                 color={color}
                             />
-                        )
+                        ),
+                        headerShown: false
                     }}
                 />
                 <Drawer.Screen
@@ -218,7 +219,8 @@ const Main = () => {
                                 iconStyle={{ width: 24 }}
                                 color={color}
                             />
-                        )
+                        ),
+                        headerShown: false
                     }}
                 />
                 <Drawer.Screen
@@ -234,7 +236,8 @@ const Main = () => {
                                 iconStyle={{ width: 24 }}
                                 color={color}
                             />
-                        )
+                        ),
+                        headerShown: false
                     }}
                 />
                 <Drawer.Screen
@@ -250,7 +253,8 @@ const Main = () => {
                                 iconStyle={{ width: 24 }}
                                 color={color}
                             />
-                        )
+                        ),
+                        headerShown: false
                     }}
                 />
                 <Drawer.Screen
@@ -266,7 +270,8 @@ const Main = () => {
                                 iconStyle={{ width: 24 }}
                                 color={color}
                             />
-                        )
+                        ),
+                        headerShown: false
                     }}
                 />
             </Drawer.Navigator>
